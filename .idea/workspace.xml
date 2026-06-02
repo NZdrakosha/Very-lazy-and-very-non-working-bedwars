@@ -91,6 +91,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "NZdrakosha"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/NZdrakosha/Very-lazy-and-very-non-working-bedwars",
+    "accountId": "e781137f-d7e5-41a9-951b-d8b3de828464"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.spigotmc/spigot-api/1.12.2-R0.1-SNAPSHOT/e2b659810b391ad864d9e119c05a25f4e6a94b26/spigot-api-1.12.2-R0.1-SNAPSHOT-sources.jar!/org/bukkit/command/CommandExecutor.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.spigotmc/spigot-api/1.12.2-R0.1-SNAPSHOT/e2b659810b391ad864d9e119c05a25f4e6a94b26/spigot-api-1.12.2-R0.1-SNAPSHOT-sources.jar!/org/bukkit/plugin/java/JavaPlugin.java" root0="SKIP_INSPECTION" />
@@ -118,7 +130,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -321,7 +333,7 @@
       <workItem from="1780326437050" duration="3416000" />
       <workItem from="1780334620517" duration="9848000" />
       <workItem from="1780382916402" duration="9836000" />
-      <workItem from="1780418131570" duration="302000" />
+      <workItem from="1780418131570" duration="981000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,7 @@
+name: bedwars
+version: '${version}'
+main: me.drakosha.bedwars.Bedwars
+commands:
+  s:
+  gm:
+

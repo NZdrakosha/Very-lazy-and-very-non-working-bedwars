@@ -48,12 +48,3 @@ processResources {
         expand props
     }
 }
-
-def serverPluginsDir = "C:/Users/danya/Desktop/bedwars/plugins"
-
-tasks.register('copyToServer', Copy) {
-    from layout.buildDirectory.file("libs/bedwars-1.0-all.jar")
-    into serverPluginsDir
-}
-
-tasks.shadowJar.finalizedBy(copyToServer)
